@@ -1,4 +1,3 @@
-# Definice
 Jedná se o nerýmovaný verš který ze zkládá z pěti jambických stop.
 Svým rytmem se přibližuje rytmu běžné řeči.
 V češtině je obtižný kvůli struktuře jazyka

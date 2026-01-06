@@ -1,0 +1,1 @@
+Společně s [[Lyrika|lyrikou]] a [[Drama|dramatem]] se řadí mezi základní literární druhy. Je založena na vypravění příběhu, má dějové schéma.

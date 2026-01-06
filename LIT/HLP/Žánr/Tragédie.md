@@ -1,0 +1,1 @@
+Forma [[Drama | dramatu]] s vážným obsahem. Hrdina se obvykle dostane do neřešitelného konfliktu s vlastním osudem, v následném marném boji prohrává a umírá.

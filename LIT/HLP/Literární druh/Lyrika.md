@@ -1,0 +1,1 @@
+Společně s [[Epika|epikou]] a [[Drama|dramatem]] se řadí mezi základní literární druhy. Je založena na vyjádření pocitů, úvah a nálad na úkor děju který se zde nevyskytuje.
