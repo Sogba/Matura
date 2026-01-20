@@ -6,7 +6,7 @@ Havran -
 Zánik domů Usherů - 
 # Související autoři
 Puškin - Evžen Oněgin
-Alexandr Dumas st. - Tři mušketýři
+George Gordon Byron - Childe Haroldova pouť
 Victor Hugo - Bídníci
 
 K. H. Mácha - Máj

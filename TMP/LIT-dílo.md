@@ -1,21 +1,25 @@
 # 1. Autor a název díla
+Název díla: 
+Autor: [[LIT-autor]]
 # 2. Charakteristika díla
 ## Forma a typ obsahu literární útvar
 %%
-Forma: Poezie, próza
+Forma: Poezie, próza, dílo
 Typ obsahu: Lyrika, epika,  drama
 Žánr
 %%
 ## Co vyjadřuje název díla
 ## Téma díla
 # 3. Literárněhistorický kontext
-## Literární
-## Časové vymezení
-## Historické souvislosti
+## Literární kontext
+## Historické souvislosti a časové vymezení
 ## Související autoři
+![[LIT-autor#Související autoři]]
 ## Autorův život
+![[LIT-autor#Život]]
 %% ### Okolnosti ovlivňující napsání díla %%
 ## Další autorova díla
+![[LIT-autor#Díla]]
 # 4. Kompozice díla
 %%
 chronologická, retrospektivní, paralelní, rámcová, řetězová, rozsah díla, kapitoly a jejich označení, návaznost částí, dějství, výstupy, sbírka básní, motto, prolog, doslov atp
@@ -24,7 +28,7 @@ chronologická, retrospektivní, paralelní, rámcová, řetězová, rozsah díl
 # 6. Postavy
 ## Hlavní
 ## Vedlejší
-# 7. Vypravěčský způob a vypravěč
+# 7. Vypravěčský způsob a vypravěč
 %%
 (ich/er forma, jedna z postav příběhu, vševědoucí vypravěč, vypravěč vstupující do díla, role lyrického subjektu, poměr roviny vypravěče a postav, přímá/nepřímá/polopřímá řeč)
 %%
