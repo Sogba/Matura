@@ -5,9 +5,9 @@ Král lávra - satira, podle námětu legendy
 Tyrolská elegie - satira, popis cesta a život v Brixenu
 Obrazy z rus - soubor próz
 # Související autoři
-Jan Neruda - 
-[[Božena Němcová]] - 
-Karel Jaromír Erben -
+K. H. Mácha - Máj
+[[Božena Němcová]] - Babička
+Karel Jaromír Erben - Kytice
 
 Victor Hugo - Chrám Matky boží v Paříži
 Gogol - Revizor
