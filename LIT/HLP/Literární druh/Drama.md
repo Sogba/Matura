@@ -1,1 +1,0 @@
-Společně s [[Lyrika|lyrikou]] a [[Epika|epikou]] se řadí mezi základní literární druhy. Příběh se vytváří za pomocí dialogů a monologů. Obvyklé provedení je především divadelní.

@@ -7,6 +7,6 @@ C. S. Lewis - Letopisy Narnie
 Robert E. Howard - Conan
 H. P. Lovecraft - Volání Cthulhu
 
-Karel Čapek - R.U.R
+Karel Čapek - Bílá nemoc
 Eduard Štorch - Lovci mamutů
 Viktor Dyk - Krysař
