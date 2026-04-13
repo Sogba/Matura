@@ -1,3 +1,0 @@
-# Život
-# Díla
-# Související autoři
