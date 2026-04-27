@@ -1,6 +1,6 @@
 # 1. Autor a název díla
-Název díla: Farma zvířat
-Autor: [[George Orwell]]
+Název díla: Proměna
+Autor: [[Franz Kafka]]
 # 2. Charakteristika díla
 ## Forma a typ obsahu literární útvar
 %%
@@ -8,55 +8,52 @@ Forma: Poezie, próza, dílo
 Typ obsahu: Lyrika, epika,  drama
 Žánr
 %%
-Epická próza, alegorická novela, bajka.
+Epická próza, novela.
 ## Co vyjadřuje název díla
-Název označuje místo děje, farmu kterou zvířata převezmou a spravují. Zároveň je alegorií na totalitní stát.
+Název odkazuje na proměnu hlavní postavy Řehoře Samsy v hmyz, ale i na proměnu vztahů v rodině.
 ## Téma díla
-Kritika totalitarismu a zneužívání moci. Alegorie na Sovětský svaz a stalinismus. Revoluce, která zradí vlastní ideály.
+Odcizení jedince od společnosti a rodiny, ztráta lidské identity, absurdita existence. Člověk jako prostředek, nikoliv cíl.
 # 3. Literárněhistorický kontext
 ## Literární kontext
-Dílo se řadí do antiutopické a alegorické literatury 20. století. Orwell patří mezi autory společensky angažované prózy.
+Dílo se řadí k expresionismu a existencialismu. Kafka je představitelem pražské německé literatury. Jeho styl bývá označován jako kafkovský - absurdní situace podávané věcným jazykem.
 ## Historické souvislosti a časové vymezení
-Dílo bylo vydáno v roce 1945, na konci druhé světové války. Odráží vývoj v Sovětském svazu od revoluce v roce 1917 po Stalinovu diktaturu.
+Dílo bylo vydáno v roce 1915 v období Rakouska-Uherska, za první světové války. Praha byla kulturně rozmanitým městem s českou, německou a židovskou komunitou.
 ## Související autoři
-![[George Orwell#Současnící]]
+![[Franz Kafka#Současnící]]
 ## Autorův život
-![[George Orwell#Život]]
+![[Franz Kafka#Život]]
 %% ### Okolnosti ovlivňující napsání díla %%
 ## Další autorova díla
-![[George Orwell#Díla]]
+![[Franz Kafka#Díla]]
 # 4. Kompozice díla
 %%
 chronologická, retrospektivní, paralelní, rámcová, řetězová, rozsah díla, kapitoly a jejich označení, návaznost částí, dějství, výstupy, sbírka básní, motto, prolog, doslov atp
 %%
-Dílo je psáno chronologicky, členěno na 10 kapitol. Kompozice sleduje vývoj od revoluce přes budování nové společnosti až k návratu k původnímu útlaku.
+Dílo je psáno chronologicky, členěno na tři části. První část popisuje proměnu a první reakce, druhá postupné odcizení, třetí smrt Řehoře a úlevu rodiny.
 # 5. Obsah díla
-Na Panské farmě žijí zvířata pod nadvládou farmáře Jonese. Starý kanec Major jim vyloží svůj sen o svobodě a rovnosti zvířat. Po jeho smrti zvířata vedená prasaty Napoleonem a Kuliskem vyženou Jonese a přejmenují farmu na Farmu zvířat. Sestaví sedm přikázání, z nichž nejdůležitější je „Všechna zvířata jsou si rovna". Kulička se snaží farmu modernizovat a plánuje stavbu větrného mlýna. Napoleon ho pomocí psů, které tajně vycvičil, vyžene z farmy a prohlásí ho za zrádce. Napoleon postupně mění přikázání ve svůj prospěch. Prasata začnou chodit po dvou nohách, nosit oblečení a obchodovat s lidmi. Pracovitý kůň Boxer je po zranění odvezen na jatka, i když prasata tvrdí, že jede k zvěrolékaři. Na konci příběhu se prasata a lidé sejdou u jednoho stolu a zvířata pozorující je zvenčí už nedokáží rozlišit prasata od lidí.
+Obchodní cestující Řehoř Samsa se jednoho rána probudí proměněný v obrovský hmyz. Zpočátku se snaží situaci racionálně řešit a myslí na to, že musí stihnout vlak do práce. Když ho uvidí vedoucí z firmy, zděšeně uteče. Otec Řehoře zaženě zpět do pokoje. O Řehoře se stará sestra Markétka, nosí mu jídlo a uklízí pokoj. Řehoř si postupně zvyká na nové tělo, leze po stěnách a stropě. Rodina se za něj stydí a postupně ho zavrhuje. Otec ho zraní jablkem, které mu uvízne v krunýři. Rodina si musí najít práci, protože Řehoř byl jejich živitelem. Nakonec i Markétka přestane o Řehoře pečovat a prohlásí, že to už není jejich bratr a musí se ho zbavit. Řehoř v noci umírá, vysílený a vyhladovělý. Rodina pocítí úlevu a vyrazí na výlet do přírody, kde plánují nový začátek.
 # 6. Postavy
 ## Hlavní
-Napoleon - prase, alegoricky Stalin, bezohledný diktátor
-Kulička (Snowball) - prase, alegoricky Trockij, idealista vyhoštěný z farmy
+Řehoř Samsa - obchodní cestující, proměněný v hmyz, obětavý živitel rodiny
 ## Vedlejší
-Boxer - pracovitý kůň, oddaný revoluci, naivní
-Pištík (Squealer) - prase, propagandista
-Major - starý kanec, idealista, inspirátor revoluce, alegoricky Marx/Lenin
-Jones - původní farmář, alegoricky car
-Benjamin - osel, cynický, vidí pravdu ale mlčí
+Markétka (Gréta) - Řehořova sestra, zpočátku pečující, postupně se od něj odvrací
+Otec - autoritativní, po proměně Řehoře agresivní
+Matka - slabá, bojí se Řehoře, ale má k němu soucit
 # 7. Vypravěčský způsob a vypravěč
 %%
 (ich/er forma, jedna z postav příběhu, vševědoucí vypravěč, vypravěč vstupující do díla, role lyrického subjektu, poměr roviny vypravěče a postav, přímá/nepřímá/polopřímá řeč)
 %%
-Er-forma, vševědoucí vypravěč. Převažuje nepřímá řeč, přímá řeč se objevuje v projevech prasat.
+Er-forma, vypravěč sleduje děj z perspektivy Řehoře. Převažuje polopřímá řeč a vnitřní monology. Věcný a strohý tón i přes absurdní situaci.
 # 8. Jazyk díla
 %%
 spisovný/nespisovný a jeho varianty, větná stavba, motivované nebo nemotivované odchylky od větné stavby (viz výňatek z díla), umělecké jazykové prostředky (tropy a figury) a jejich funkce, účinek použitého jazyka na čtenáře
 %%
-Spisovný jazyk, jednoduchý a srozumitelný styl připomínající bajku. Alegorie a symbolika jsou hlavními uměleckými prostředky. Ironie a satira. Krátké věty a přímočarý jazyk zdůrazňují alegorický charakter.
+Spisovný jazyk, úřednický strohý styl, který kontrastuje s absurdností děje. Věcný popis fantastické situace zesiluje pocit odcizení. Minimum uměleckých prostředků, jednoduché věty. Kafkův styl je záměrně suchý a neosobní.
 # 9. Ohlas díla
 %%
 pohled literární kritiky a čtenářů (i v různých dobách, pokud se jedná o dílo starší), (překlady), inspirace pro jiná umělecká zpracování
 %%
-Dílo mělo zpočátku problém najít vydavatele kvůli kritice Sovětského svazu, který byl za války spojencem Británie. Po vydání se stalo bestsellerem. Dnes je považováno za klasiku světové literatury. Bylo zfilmováno jako animovaný i hraný film.
+Dílo je považováno za jedno z nejvýznamnějších děl moderní literatury. Bylo přeloženo do desítek jazyků a dočkalo se řady divadelních, filmových i rozhlasových adaptací. Pojem „kafkovský" se stal označením pro absurdní a odcizující situace.
 # 10. Čtenář
 %%
 pocity, dojmy, názory, myšlenky
