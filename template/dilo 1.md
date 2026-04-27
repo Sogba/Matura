@@ -1,18 +1,16 @@
 # 1. Autor a název díla
-Autor: [[Karel Čapek]]
+Autor: [[LIT-autor]]
 Název díla: 
 # 2. Charakteristika díla
 ## Forma a typ obsahu literární útvar
-%%Forma: Poezie, próza, dílo; Typ obsahu: Lyrika, epika,  drama; Žánr%%
-
+Forma: , Obsah: , Žánr:
 ## Co vyjadřuje název díla a jeho téma
-
 # 3. Literárněhistorický kontext
 ## Literární kontext, historické souvislosti a vymezení
 
-![[Karel Čapek#Současnící]]
-![[Karel Čapek#Život]]
-![[Karel Čapek#Díla]]
+![[LIT-autor#Současnící]]
+![[LIT-autor#Život]]
+![[LIT-autor#Díla]]
 # 4. Kompozice díla
 %%chronologická, retrospektivní, paralelní, rámcová, řetězová, rozsah díla, kapitoly a jejich označení, návaznost částí, dějství, výstupy, sbírka básní, motto, prolog, doslov atp%%
 # 5. Obsah díla
