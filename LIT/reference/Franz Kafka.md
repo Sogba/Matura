@@ -11,9 +11,9 @@ Narodil se 1883 v Praze židovské rodině. Vystudoval právo a pracoval jako ú
 # Současnící
 ## Čeští
 - [[Jaroslav Hašek]] - [[Osudy dobrého vojáka Švejka za světové války]]
-- [[Vítězslav Nezval]] - [[Edison]]
+- [[Ivan Olbracht]] - [[Nikola Šuhaj loupežník]]
 - [[Vladislav Vančura]] - [[Rozmarné léto]]
 ## Světoví
-- [[F. Scott Fitzgerald]] - [[Velký Gatsby]]
-- [[Ernest Hemingway]] - [[Stařec a moře]]
+- [[Marcel Proust]] - [[Hledání ztraceného času]]
+- [[Thomas Mann]] - [[Kouzelný vrch]]
 - [[James Joyce]] - [[Dubliňané]]

@@ -11,7 +11,7 @@ Narodil se 1892 v dnešní Jihoafrické republice ale vyrůstá v Anglii. S matk
 # Současnící
 ## Čeští
 - [[Jaroslav Hašek]] - [[Osudy dobrého vojáka Švejka za světové války]]
-- [[Vítězslav Nezval]] - [[Edison]]
+- [[Ivan Olbracht]] - [[Nikola Šuhaj loupežník]]
 - [[Vladislav Vančura]] - [[Rozmarné léto]]
 ## Světoví
 - [[F. Scott Fitzgerald]] - [[Velký Gatsby]]

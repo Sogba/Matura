@@ -11,8 +11,8 @@ Umírá roku 1976.
 # Současnící
 ## Čeští
 - [[Jaroslav Hašek]] - [[Osudy dobrého vojáka Švejka za světové války]]
-- [[Vítězslav Nezval]] - [[Edison]]
 - [[Vladislav Vančura]] - [[Rozmarné léto]]
+- [[Ivan Olbracht]] - [[Nikola Šuhaj loupežník]]
 ## Světoví
 - [[F. Scott Fitzgerald]] - [[Velký Gatsby]]
 - [[Ernest Hemingway]] - [[Stařec a moře]]

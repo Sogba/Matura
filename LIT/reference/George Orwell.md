@@ -11,7 +11,7 @@ Narodil se 1903 v Indii, vyrůstal však v Anglii. Vystudoval přestižní stře
 # Současnící
 ## Čeští
 - [[Jaroslav Hašek]] - [[Osudy dobrého vojáka Švejka za světové války]]
-- [[Vítězslav Nezval]] - [[Edison]]
+- [[Ivan Olbracht]] - [[Nikola Šuhaj loupežník]]
 - [[Vladislav Vančura]] - [[Rozmarné léto]]
 ## Světoví
 - [[F. Scott Fitzgerald]] - [[Velký Gatsby]]
